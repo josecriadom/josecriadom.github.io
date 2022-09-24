@@ -672,3 +672,12 @@ figure.effect-goliath:hover p {
         height: 100px;
     }
 }
+
+footer {
+    background-color: #444;
+    padding: 11px 15px;
+}
+
+footer p {
+    margin: 0;
+}
